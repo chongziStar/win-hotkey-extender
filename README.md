@@ -1,2 +1,2 @@
 # win-hotkey-extender
-Win hotkey extender is a small tool developed based on Java and only applicable to Windows platform. It is used to extend and implement customized global shortcut keys.
+Winhotkeyextender is a small tool developed based on Java 8, which is only applicable to Windows platform. It is used to customize the extended global shortcut plug-in function.
