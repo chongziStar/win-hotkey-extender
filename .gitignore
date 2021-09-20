@@ -1,0 +1,5 @@
+.# Created by .ignore support plugin (hsz.mobi)
+.idea
+win-hotkey-extender.iml
+.idea/compiler.xml
+.gitignore
